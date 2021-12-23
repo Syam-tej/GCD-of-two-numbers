@@ -23,7 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![github logo](gcd.png)
+![github logo](syam_3.PNG)
 
 
 ## Result:
