@@ -23,7 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![github logo](gcd.png)
 
 
 ## Result:
